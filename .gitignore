@@ -1,0 +1,9 @@
+# Build directory
+build/
+cmake-build-debug-visual-studio/
+.idea/
+.vs/
+
+# Useless files
+.DS_STORE
+*.swp
